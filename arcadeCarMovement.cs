@@ -5,6 +5,7 @@ public class arcadeCarMovement : MonoBehaviour {
 
   // From here: http://www.doofah.com/tutorials/unity/bouncy-vehicle-tutorial/
   // Create a car GameObject with a RigidBody and a BoxCollider.
+  // RigidBody Mass: 70, Drag: 4, Angular Drag: 5, Gravity: off.
   // Add 4 hoverpoints at the corners (above the center line).
   // Add these hover points in the inspector.
   // Particle system is commented our for now.
