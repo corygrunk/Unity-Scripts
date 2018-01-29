@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class CarMovement : MonoBehaviour {
+public class arcadeCarMovement : MonoBehaviour {
 
   // From here: http://www.doofah.com/tutorials/unity/bouncy-vehicle-tutorial/
   // Create a car GameObject with a RigidBody and a BoxCollider.
